@@ -4,7 +4,7 @@ This simulator has been extended from https://github.com/smcclure20/scheduling-p
 
 ## Prerequisites
 
-``bash
+```bash
 sudo apt install python3-pip; pip install numpy matplotlib
 ```
 ## To Run
