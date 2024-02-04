@@ -2,6 +2,11 @@
 
 This simulator has been extended from https://github.com/smcclure20/scheduling-policies-sim to simulate AFP design.
 
+## Prerequisites
+
+``bash
+sudo apt install python3-pip; pip install numpy matplotlib
+```
 ## To Run
 
 Start simulation using scripts bellow.
